@@ -73,6 +73,8 @@ def prepare_values() -> None:
     # Calculate the sum of squares
     result = calculate_sum_of_squares(values)
 
+    print(result)
+
 
 # MAIN FUNCTION
 def main() -> None:
